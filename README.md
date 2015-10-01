@@ -2,7 +2,7 @@
 
 ####Introduction####
 
-As reported elsewhere Iseries IBM ODBC drivers are badly implemented and causes segmentation fault on NULL returned values with PHP-ODBC.
+As reported elsewhere Iseries IBM ODBC 64 bit drivers are badly implemented and causes segmentation fault on NULL returned values with PHP-ODBC.
 Since command line isql (iusql for UNICODE) tools works perfectly I decided to build a light&simple PHP wraper to query AS400.
 
 
